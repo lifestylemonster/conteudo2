@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-09-09_0914",
+    "name": "pernas e glúteos",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -37,10 +37,17 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 1,
+    "uniqCompNum": 2,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
@@ -62,14 +69,12 @@
           },
           "_name": "content8",
           "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black-outline\" href=\"https://lifestylemonster.github.io/treinodeguteos/\" data-app-placeholder=\"Type Text\" target=\"_blank\"><span class=\"mbri-lock mbr-iconfont mbr-iconfont-btn\"></span>ACESSE AQUI PARA RECEBER SEU CONTEÚDO</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content8-0",
-          "_isUserblock": true,
-          "_sourceTheme": "mobirise4",
-          "_cid": "sa5NUcAb87",
+          "_cid": "sa5VRwHVwo",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_anchor": "content8-1"
         }
       ]
     }
